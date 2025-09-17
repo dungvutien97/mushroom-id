@@ -1,0 +1,21 @@
+    # Xcode
+    build/
+    DerivedData/
+    *.xcarchive/
+    *.ipa
+    *.dSYM
+
+    # User data
+    xcuserdata/
+
+    # CocoaPods
+    Pods/
+
+    # Carthage
+    Carthage/Build/
+
+    # Swift Package Manager
+    .build/
+
+    # Other
+    *.log
